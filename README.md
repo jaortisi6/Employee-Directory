@@ -1,6 +1,6 @@
 # Employee-Directory
 
-https://employee-directory-jo.herokuapp.com/
+https://jaortisi6.github.io/Employee-Directory/
 
 ## Screenshots
 
